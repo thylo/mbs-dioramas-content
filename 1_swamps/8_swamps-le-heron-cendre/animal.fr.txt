@@ -1,0 +1,26 @@
+Title: Le Héron cendré
+
+----
+
+Latin: Ardea cinerea
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Ce grand échassier est le plus commun des hérons d’Europe et il est présent toute l’année dans notre région. En migration post nuptiale, des oiseaux nordiques sont régulièrement observés dès la fin de l’été.'
+- 
+  title: « Statut » ?
+  content: 'En très grand danger avant sa protection en 1976, ses effectifs sont nettement remontés depuis et il n’est  actuellement.'
+- 
+  title: Un comportement typique ?
+  content: |
+    Les hérons, territoriaux et solitaires, nichent pourtant en colonies dans les arbres, on parle alors de Héronnières. Comme tous les oiseaux de la famille des ardéidés, le héron vole le cou replié ce qui rend sa silhouette caractéristique en vol.
+    Le héron est adepte de la chasse à l’affût et peut rester complètement immobile pendant de longues minutes.
+- 
+  title: Une anecdote ?
+  content: |
+    Le régime alimentaire du héron est extrêmement varié : poissons, amphibiens, serpents, insectes, micromammifères, mais aussi, poussins nidifuges, taupes, lapins ou même belettes…
+     Le héron, comme beaucoup d’oiseaux carnivores régurgite des pelotes de réjection (contenant des os, des arrêtes et des poils non digérés)

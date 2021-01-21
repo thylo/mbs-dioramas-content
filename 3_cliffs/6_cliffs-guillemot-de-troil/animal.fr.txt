@@ -1,0 +1,27 @@
+Title: GUILLEMOT DE TROÏL
+
+----
+
+Latin: Uria aalge
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: |
+    Quelques populations relictuelles nichent encore dans les falaises françaises ; mais c’est surtout en octobre et en février qu’on peut avoir la chance d’observer le Guillemot de Troïl à proximité des côtes picardes, lors du passage en migration de ce petit pingouin des eaux septentrionales.
+
+- 
+  title: Son statut ?
+  content: |
+    Bien que protégé, le Guillemot est trop souvent victime de captures accidentelles dans les filets, mais aussi des pollutions aux hydrocarbures, qui représentent un piège fatal lorsqu’il plonge en quête de bancs de poissons, à des profondeurs atteignant 50 mètres. Les cadavres englués retrouvés sur les plages en sont le triste témoignage.
+
+- 
+  title: Un comportement typique ?
+  content: 'Lorsqu’on est un Guillemot de Troïl, le démarrage dans la vie s’apparente à un véritable saut de l’ange : encouragé par les appels de son père, le poussin se jette de la corniche sur laquelle il est né, avant même de savoir voler. Un plongeon vertigineux !'
+- 
+  title: Une anecdote ?
+  content: |
+    Oiseau grégaire par excellence, le Guillemot aime se coller à ses congénères. Dans certaines colonies très denses, on a compté jusqu’à 20 nids au mètre carré ! Un record chez les oiseaux marins !

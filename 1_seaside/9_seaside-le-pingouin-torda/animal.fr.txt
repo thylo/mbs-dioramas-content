@@ -1,0 +1,28 @@
+Title: Le Pingouin torda
+
+----
+
+Latin: Alca torda
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'La petite population bretonne, cantonnée à la Manche, est à l’extrême Sud de son aire de répartition. L’hiver, le Pingouin torda reste plus près des côtes que le guillemot. Certains oiseaux se déplacent jusqu’aux côtes marocaines et même dans l’Ouest de la Méditerranée.'
+- 
+  title:  « Statut » ?
+  content: |
+    A l’échelle mondiale ou européenne, le Pingouin torda n’est pas une espèce menacée. L’oiseau reste cependant vulnérable à la pollution des mers (nappes de pétrole, dégazages, déchets plastiques…) ainsi qu’à la raréfaction de sa nourriture due à la pêche intensive.
+    En France, l’espèce est en danger critique d’extinction. En effet, la population a considérablement diminué puisqu’il resterait aujourd’hui environs 25 couples seulement alors qu’ils étaient autour de 500 couples en Bretagne dans les années 1960. Cette ».
+- 
+  title: Un comportement typique ?
+  content: |
+    Le Pingouin torda est une espèce  unique, gris avec des taches sombres, est pondu entre la mi-mai et la fin juin à même la roche. Il est piriforme (en forme de poire), comme celui du Guillemot de Troïl, afin d’éviter qu'il roule et tombe de la falaise.
+    Les pingouins chassent leurs proies en plongeant depuis la surface (pas de vols piqués) pour aller attraper les poissons, crustacés et mollusques qui sont pêchés jusqu’à 10 mètres de profondeur.
+- 
+  title: Une anecdote ?
+  content: |
+    Deux semaines après l’éclosion, alors qu’ils sont encore incapables de voler, les jeunes pingouins se jettent dans le vide en agitant leurs moignons d’ailes et plongent dans les vagues au pied de la falaise pour rejoindre leurs parents qui les appellent. Si certains ratent leur coup et atterrissent sur les rochers, leur cuirasse de graisse, de duvet et de plumes leur permet le plus souvent de sortir sans dommages de cette vertigineuse chute !
+    Le pingouin est souvent confondu avec le  du fait de leur ressemblance (port du smoking) et également car en anglais, le mot manchot est traduit « penguin ». Mais ces 2 oiseaux ne font pas parti de la même famille. De plus le pingouin vole alors que le manchot ne vole pas.

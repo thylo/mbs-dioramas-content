@@ -1,0 +1,22 @@
+Title: PINSON DES ARBRES
+
+----
+
+Latin: Fringilla coelebs
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: ' '
+- 
+  title: Son statut ?
+  content: 'Les populations de ce joli fringille protégé sont stables, même si l’utilisation intensive d’herbicides représente toujours une menace. Omnivore, il adapte son régime alimentaire en fonction des saisons, et met ainsi toutes les chances de son côté pour survivre !'
+- 
+  title: Un comportement typique ?
+  content: 'Tji tji tji tji tiup tjiup tjiup tjiup tu tu tu ui tu !” Il peut siffler cette rengaine 2000 fois par jour !'
+- 
+  title: Une anecdote ?
+  content: ' signifie “célibataire”. Notre oiseau bariolé aurait-il des difficultés à trouver sa dulcinée ? Que nenni ! Cette épithète scientifique a simplement été choisie parce que mâles et femelles ne passent pas toujours l’hiver au même endroit. '

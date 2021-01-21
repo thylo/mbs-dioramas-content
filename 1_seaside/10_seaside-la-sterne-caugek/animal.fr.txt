@@ -1,0 +1,25 @@
+Title: La Sterne caugek
+
+----
+
+Latin: Thalasseus sandvicensis
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'On peut l’observer en migration sur l’ensemble de notre littoral. Migratrices, les sternes caugek passent l’hiver sur la côte Ouest de l’Afrique.'
+- 
+  title: « Statut » ?
+  content: 'La Sterne caugek est vulnérable aux dérangements causés par les humains sur les plages près de ses colonies. Elle est également menacée par la perte et la dégradation de ses zones de nidification et par la pollution. Mais elle n’est pas globalement menacée pour le moment. Cette .'
+- 
+  title: Un comportement typique ?
+  content: |
+    Les colonies sont installées sur des îlots plats, souvent en compagnie des mouettes rieuses qui, en échange d’une dîme prélevée sur les poissons pêchés, les œufs et même quelques poussins, assurent une efficace garde rapprochée.
+    Les parades nuptiales, huppe dressée et ailes écartées se terminent par une offrande de poisson du mâle à la femelle.
+- 
+  title: Une anecdote ?
+  content: |
+    Dans les grandes colonies, on observe souvent la formation de crèches : âgés d’un ou deux jours, les poussins peuvent déjà parcourir plusieurs centaines de mètres. Les jeunes qui se rassemblent sont alors surveillés par des adultes. Les poussins se groupent par classe d’âge et il y a donc souvent plusieurs crèches de plusieurs dizaines poussins. Néanmoins, les parents nourrissent exclusivement leur progéniture.

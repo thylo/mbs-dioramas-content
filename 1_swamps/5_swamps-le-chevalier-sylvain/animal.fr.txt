@@ -1,0 +1,23 @@
+Title: Le Chevalier sylvain
+
+----
+
+Latin: Tringa glareola
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Nicheur nordique, de la Scandinavie à l’Est de la Russie, ce petit échassier hiverne en Afrique subsaharienne. Il est essentiellement observable l’été (de juillet à septembre) lors de sa migration postnuptiale.'
+- 
+  title: « Statut » ?
+  content: 'Cette .'
+- 
+  title: Un comportement typique ?
+  content: 'Lors de la migration postnuptiale, ces petits chevaliers défendent ardemment un petit territoire dans lequel ils s’alimentent. Ils s’approprient un petit espace de 3 ou 4 mètres le long de la limite de l’eau et gare aux intrus, ils ont même été observés repoussant des mâles de Combattants variés pourtant bien plus gros qu’eux. (Géroudet)'
+- 
+  title: Une anecdote ?
+  content: |
+    Indifférent aux autres espèces de limicoles, le sylvain n’est sociable qu’avec les siens.

@@ -1,0 +1,24 @@
+Title: Le Petit gravelot
+
+----
+
+Latin: Charadrius dubius
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Dès juillet, ce migrateur rejoint sa zone d’hivernage du Sénégal au Nigeria pour revenir chez nous en mars.'
+- 
+  title:  « Statut » ?
+  content: 'La création de ballastières et l’exploitation des granulats alluviaux lui est très favorable et ses effectifs sont en augmentation. Cette .'
+- 
+  title: Un comportement typique ?
+  content: 'Le poussin du Petit gravelot est nidifuge : dès l’éclosion, il est capable de marcher, de nager et de se nourrir seul. Sa vitesse de déplacement à la course est impressionnante, surtout compte tenu de sa petite taille, à la naissance, il n’est guère plus gros qu’une pièce de 2 euros.'
+- 
+  title: Une anecdote ?
+  content: |
+    Le petit gravelot apprécie autant le bord des rivières ou même les alentours des carrières du moment que les cailloux, galets ou autres gravillons soient bien représentés et que la présence de l’eau ne soit pas loin. Il aime faire son nid au beau milieu des cailloux ou sur le sable des grèves.
+    C’est le seul des gravelots à nicher aussi bien sur le littoral qu’à l’intérieur des terres.

@@ -1,0 +1,25 @@
+Title: TROGLODYTE MIGNON
+
+----
+
+Latin: Troglodytes troglodytes
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Ce petit passereau tout rond, ne pesant pas plus de 9 grammes, niche partout en Picardie, où on entend son trille énergique tout au long de l’année. '
+- 
+  title: Son statut ?
+  content: 'Oiseau protégé, le troglodyte est chez lui partout (forêts, jardins, friches…) dès lors que la végétation basse lui offre insectes, arthropodes ou araignées dont il se délecte. Tant que ronciers épais et fourrés de lierre seront là pour l’accueillir, tout ira bien pour lui !'
+- 
+  title: Un comportement typique ?
+  content: 'Plutôt solitaire et furtif, le troglodyte défend ardemment son territoire : la queue bien dressée, il adopte des postures d’intimidation, puis lance son chant mélodieux et éclatant, étonnamment puissant pour un si petit gabarit !'
+- 
+  title: Une anecdote ?
+  content: 'Un vrai gentleman, le mâle troglodyte : au printemps, il construit plusieurs ébauches de nids, qu’il présente à sa partenaire. Après les avoir visités, c’est elle qui choisit celui qui lui convient ! Petite boule de mousse adossée à une paroi, le nid évoque un habitat troglodyte... d’où le nom du mignon ! '
+- 
+  title: FALAISE
+  content: ""

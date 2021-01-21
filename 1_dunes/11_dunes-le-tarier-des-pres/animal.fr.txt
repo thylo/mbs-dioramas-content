@@ -1,0 +1,24 @@
+Title: Le Tarier des prés
+
+----
+
+Latin: Emberiza schoeniclus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Migrateur, le Tarier des prés nous quitte dès août pour l’Afrique tropicale et revient en avril-mai, parfois plus tôt.'
+- 
+  title:  « Statut » ?
+  content: 'Le Tarier des prés est assez commun à travers sa vaste aire de distribution. Cependant, quelques déclins sont observés dans l’Ouest de l’Europe, surtout causés par l’intensification de l’agriculture. Cette .'
+- 
+  title: Un comportement typique ?
+  content: 'L’espèce est très fidèle à ses sites de reproduction et revient en général au même endroit chaque année. Le nid est dissimulé dans une petite cuvette du sol, enfoui dans la végétation ou abrité sous quelque touffe d’herbe, souvent au pied d’une plante. Le nid étant au sol, les jeunes ne restent au nid que 11 à 14 jours.'
+- 
+  title: Une anecdote ?
+  content: |
+    Le Tarier des prés est l’espèce caractéristique des prairies de fauche, grasses et fournies telles qu’on les trouve dans les régions irriguées ou bien arrosées de pluies.
+    11

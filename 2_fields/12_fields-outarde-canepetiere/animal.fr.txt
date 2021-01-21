@@ -1,0 +1,22 @@
+Title: OUTARDE CANEPETIÈRE
+
+----
+
+Latin: Tetrax tetrax
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Autrefois nicheuse en Picardie, l’Outarde canepetière a disparu progressivement de la région. Les observations de rassemblements postnuptiaux n’y sont plus qu’un vague souvenir…'
+- 
+  title: Son statut ?
+  content: 'Le bouleversement des pratiques agricoles - utilisation de pesticides, intensification des cultures, remembrements - a contribué au déclin rapide de ce grand oiseau des plaines ouvertes. Des travaux sont entrepris pour tenter de sauver l’espèce en France, où elle est en danger d’extinction. '
+- 
+  title: Un comportement typique ?
+  content: 'En période de reproduction, les mâles se rassemblent dans des leks, c’est-à-dire des sortes d’arènes où ils s’adonnent à des parades spectaculaires : sauts à la verticale, gonflement des plumes et appels secs - quelque peu disgracieux - servent à impressionner ces dames !'
+- 
+  title: Une anecdote ?
+  content: 'On dit de l’Outarde canepetière qu’elle est une espèce-parapluie. Rien à voir avec une météo maussade : en écologie, ce terme désigne un animal ou une plante dont la protection permet la sauvegarde des nombreuses autres espèces qui partagent son habitat.'

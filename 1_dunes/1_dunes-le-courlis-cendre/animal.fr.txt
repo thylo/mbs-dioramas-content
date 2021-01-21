@@ -1,0 +1,55 @@
+Title: Le Courlis cendré
+
+----
+
+Latin: Numenius arquata
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Migrateurs, les courlis hivernent le long de l’océan, de la France à la Mauritanie et même jusqu’en Afrique australe. Les mouvements migratoires se font  d’août à novembre et de mars à mai.'
+- 
+  title:  « Statut » ?
+  content: "Le Courlis cendré a connu une période faste en s'adaptant aux prairies de fauche extensives qui ont longtemps prévalu. Malheureusement, l'agriculture s'est modernisée, mécanisée pour plus de rentabilité et les pratiques modernes, notamment l'ensilage et l'enrubannage, menacent à terme le maintien de l' dans notre région dont la chasse est suspendue par moratoire sur tout le territoire jusqu’en juillet 2021."
+- 
+  title: Un comportement typique ?
+  content: >
+    Sa parade nuptiale faite de vols
+    glissés, d’appels tendres alternant
+    aves des sifflements sonores et
+    modulés, est un peu mélancolique mais
+    offre un très joli spectacle.
+- 
+  title: Une anecdote ?
+  content: >
+    Dans son alimentation, le Courlis
+    cendré s’avère éclectique et
+    opportuniste. Sur les plages et
+    vasières maritimes, il capture des vers
+    (nereis essentiellement), des petits
+    crabes et des crevettes, il glane des
+    insectes sur la laisse de mer. Dans les
+    prairies, les champs et les marais, il
+    happe une grande variété d’insectes
+    et de larves, parmi lesquels des
+    coléoptères, des orthoptères, des
+    diptères et de nombreuses chenilles et
+    vers de terre. A l’occasion, il se
+    délecte également d’amphibiens et de
+    têtards, de petits poissons, de
+    lézards, voire même de tout jeunes
+    poussins d’oiseaux ou de
+    micromammifères.
+
+----
+
+Cueid: 1
+
+----
+
+Ambianceaudiofile:
+
+- sample1.mp3

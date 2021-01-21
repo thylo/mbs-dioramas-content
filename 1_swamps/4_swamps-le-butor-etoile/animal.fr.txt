@@ -1,0 +1,23 @@
+Title: Le Butor étoilé
+
+----
+
+Latin: Bautorus stellaris
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'La majorité de nos butors sont sédentaires ; néanmoins, certains individus nordiques migrent au-delà du Sahara.'
+- 
+  title: « Statut » ?
+  content: 'Hôte exclusif des grandes roselières, l’assèchement des zones de marais lui a été néfaste et il est devenu rare et localisé. Il est considéré comme  en France.'
+- 
+  title: Un comportement typique ?
+  content: 'A la moindre menace, figé au milieu de la végétation, cou tendu, bec vers le ciel, l’oiseau devient roseau parmi les roseaux… Sa couleur et les rayures de son plumage se fondant parfaitement à celle des roselières, on le surnomme souvent le  « fantôme des marais » tant il est difficile à apercevoir.'
+- 
+  title: Une anecdote ?
+  content: |
+    Telle une corne de brume, l’appel du Butor étoilé, le « bœuf des marais », parvient du fond des roselières au printemps. Il est facile de l’imiter en soufflant sur le goulot d’une bouteille.

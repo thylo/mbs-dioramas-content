@@ -1,0 +1,22 @@
+Title: CHEVALIER ABOYEUR
+
+----
+
+Latin: Tringa nebularia
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Cet élégant limicole est essentiellement présent lors de ses haltes migratoires pré et post nuptiales. On le voit s’alimenter dans les chenaux des mollières, mais aussi dans les marais doux et saumâtres, même à l’intérieur des terres.'
+- 
+  title: Son statut ?
+  content: 'Considéré comme non menacé, cet oiseau chassable a une population stable qui le restera si l’on veille à la pérennisation des zones humides qu’il fréquente lors des différentes phases de son cycle annuel. '
+- 
+  title: Un comportement typique ?
+  content: '“Tiou-tiou-tiou !” Le Chevalier aboyeur se signale par ses appels flûtés. Qui a jamais entendu ces trois jolies notes comprend mal pourquoi on l’a affublé d’une telle épithète ! Ce qui est sûr, c’est que son cri s’apparente davantage au jappement d’un chiot qu’au grognement d’un cabot...      '
+- 
+  title: Une anecdote ?
+  content: 'Ce grand chevalier est reconnaissable à ses fines pattes gris verdâtre. Mais au fait, les échassiers seraient-ils fichus à l’envers, avec leur genou tout retourné ? Eh non ! En réalité, l’articulation qui se situe au milieu de la patte est celle de la cheville ! Car les oiseaux sont des danseurs qui marchent sur leurs orteils ; le genou, quant à lui, est caché sous les plumes ! '

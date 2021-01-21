@@ -1,0 +1,22 @@
+Title: GOÉLAND MARIN
+
+----
+
+Latin: Larus marinus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Comme son nom l’indique, ce grand laridé aux ailes noirâtres est inféodé aux milieux marins. On peut le voir toute l’année sur le littoral picard, où il vagabonde entre zones de reproduction et aires d’hivernage. La Baie de Somme est une halte privilégiée pour les individus en migration automnale. '
+- 
+  title: Son statut ?
+  content: 'Ce géant des mers est protégé, et ses populations sont aujourd’hui relativement stables. '
+- 
+  title: Un comportement typique ?
+  content: 'Oiseau opportuniste et grand amateur d’ordures en tous genres, le Goéland marin peut néanmoins se transformer en un redoutable prédateur. Tranquille, il survole à basse altitude les groupes d’anatidés pour repérer d’éventuels individus affaiblis... Son attaque est impitoyable : grâce à son bec puissant, il saisit par le cou Canard souchet étourdi ou Sarcelle d’hiver amoindrie ! '
+- 
+  title: Une anecdote ?
+  content: 'Le Goéland marin sait se mettre au parfum : depuis quelques années, plusieurs couples ont élu domicile sur les toits de la verrerie de Mers-les-Bains ! Un habitat bien plus sécurisé, pour établir un nid, que les falaises voisines… '

@@ -1,0 +1,29 @@
+Title: MOINEAU DOMESTIQUE
+
+----
+
+Latin: Passer domesticus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: |
+    Essentiellement sédentaire, cet oiseau anthropophile se reproduit surtout dans les villes et villages de la région ; en hiver, il n’hésite pas à se rapprocher des habitations pour glaner un peu de nourriture.
+
+- 
+  title: Son statut ?
+  content: |
+    Même s’il est bien répandu dans l’ensemble de la Picardie, du fait de sa grande adaptabilité, le Moineau domestique souffre d’un net déclin à l’échelle européenne. Une tendance inexpliquée qui inquiète d’autant plus qu’elle concerne un oiseau qui côtoie directement l’Homme !
+
+- 
+  title: Un comportement typique ?
+  content: |
+    Bien qu’aptes au vol, les petits Moineaux fraîchement sortis du nid ne sont pas pour autant autonomes. Blottis au sol, ils suivent les adultes, faisant vibrer leurs ailes pour quémander leur pitance. Les parents bienveillants donneront la becquée à leurs jeunes encore quelques jours.
+
+- 
+  title: Une anecdote ?
+  content: |
+    Le chant du “piaf” s’appelle le guilleri... et il sait nous rendre tout guillerets !

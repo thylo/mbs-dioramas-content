@@ -1,0 +1,22 @@
+Title: STERNE NAINE
+
+----
+
+Latin: Sternula albifrons
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Cette sterne miniature ne niche malheureusement plus dans la région. En revanche, on peut avoir la chance de croiser son bec jaune à pointe noire lors de son incroyable périple qui la conduit, dès la fin de l’été, jusque sur les côtes de l’hémisphère sud, où elle hiverne ; au printemps, cette remarquable migratrice est surtout visible en avril-mai. '
+- 
+  title: Son statut ?
+  content: ' siècles l’ont beaucoup fragilisée, en supprimant la dynamique des crues pourtant essentielles à la création naturelle de bancs de sable ou de rives caillouteuses dont elle a besoin pour nicher. '
+- 
+  title: Un comportement typique ?
+  content: 'On peut dire que ce petit laridé sait bichonner sa moitié ! Lors de la parade, le mâle, ailes déployées, tient dans son bec un poisson fraîchement pêché, qu’il tend à sa partenaire. Celle-ci s’en saisit au cours d’une chorégraphie exécutée au sol. Cette offrande nuptiale lui apporte toute l’énergie nécessaire à la production des œufs. Romantique et… pratique !'
+- 
+  title: Une anecdote ?
+  content: 'Vol rapide et gracieux… Queue échancrée bordée de longs filets… Voyages extraordinaires… On comprend pourquoi les sternes sont souvent appelées “hirondelles de mer” ! Avis aux amateurs de mots croisés !'

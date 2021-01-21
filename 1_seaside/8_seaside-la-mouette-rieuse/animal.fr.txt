@@ -1,0 +1,34 @@
+Title: La Mouette rieuse
+
+----
+
+Latin: Chroicocephalus ridibundus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: |
+    La Mouette rieuse n’est pas un oiseau de mer, mais plutôt un oiseau d’eau. Elle se reproduit près des eaux calmes, peu profondes et envahies de végétation. Ainsi en France, les bastions historiques de l’espèce sont des régions d’étangs comme la Brenne, la Sologne ou les Dombes.
+    L’espèce est sédentaire en France, simplement erratique en hiver. Elle fréquente alors aussi les grands fleuves et les côtes maritimes. Néanmoins, dès Juillet, de nombreux oiseaux provenant des pays bordant la mer du Nord ou la mer Baltique rejoignent la moitié Nord-Ouest de la France. Ils y resteront jusqu’en mars-avril.
+- 
+  title: « Statut » ?
+  content: ""
+- 
+  title: >
+    Si l’espèce a vu une forte croissance
+    démographique en France et en Europe
+    des années 1960 aux années 1990, ce
+    n’est plus le cas aujourd’hui. Ces
+    populations sont aujourd’hui stables
+    ou en léger déclin. Elle est
+    considérée comme non menacée.
+  content: ""
+- 
+  title: Un comportement typique ?
+  content: |
+    Cet oiseau est un opportuniste qui "nettoie" les villes et les plages, ou qui se nourrit dans les champs labourés. En effet, les groupes suivent la charrue et capturent des vers et d'autres invertébrés. Elle se nourrit aussi en nageant, et en plongeant pour saisir des poissons en suivant des bateaux de pêche.
+    Pour capturer des lombrics, elle frappe le sol alternativement de ses pattes palmées en restant sur place, les vibrations provoquent la remontée de ses proies qui croient alors à une averse de pluie. Cet oiseau est capable de s'adapter très rapidement à de nouvelles conditions et est, comme la plupart des laridés, très opportuniste.
+    La mouette rieuse est un des animaux récurrents des

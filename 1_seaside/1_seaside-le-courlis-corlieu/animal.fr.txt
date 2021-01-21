@@ -1,0 +1,31 @@
+Title: Le Courlis corlieu
+
+----
+
+Latin: Numenius phaeopus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Le Courlis corlieu se reproduit dans le Nord de l’Europe et hiverne de l’Afrique tropicale à l’Afrique méridionale. Il se rencontre sur le littoral atlantique entre juillet et octobre puis de mars à mai. '
+- 
+  title: « Statut » ?
+  content: |
+    La disparition des prairies humides au profit des cultures céréalières intensives et les modifications de la gestion hydraulique des marais atlantiques constituent les principales menaces pour l'espèce en France. Les populations de cette .
+- 
+  title: Un comportement typique ?
+  content: ""
+- 
+  title: >
+    Les oiseaux voyagent isolément ou en
+    petites bandes parfois mélangés aux
+    Courlis cendrés ou à d’autres
+    espèces de limicoles.
+  content: 'Le bec long et recourbé vers le bas n’est pas seulement pratique pour dénicher des vers dans la vase, il s’avère également particulièrement bien adapté à la capture de petits crabes dans les fissures de rochers.'
+- 
+  title: Une anecdote ?
+  content: |
+    Pendant la , les distances entre les lieux de repos et les lieux de nourrissage sont assez importantes, aussi, il arrive que ces oiseaux doivent passer la nuit sur des rochers, des plages de sable ou des îles situés au large.

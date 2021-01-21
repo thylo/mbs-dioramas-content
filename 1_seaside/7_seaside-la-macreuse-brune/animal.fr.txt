@@ -1,0 +1,28 @@
+Title: La Macreuse brune
+
+----
+
+Latin: Melanitta fusca
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: |
+    Généralement situés à proximité de lacs, d’étangs ou de rivières, les sites de nidification de la Macreuse brune se limitent en Europe à la Scandinavie, la Finlande, l’Estonie et la Russie.
+    En période de migration, cette espèce devient principalement marine et vient hiverner le long des côtes de la mer Baltique et de la mer du Nord , la France se situant à la limite Sud de son aire régulière d’hivernage.
+- 
+  title: « Statut » ?
+  content: 'Avec moins de 1000 individus hivernants, la population nationale de cette non menacée.'
+- 
+  title: Un comportement typique ?
+  content: |
+    Le régime alimentaire de la Macreuse brune est mixte mais dominé toutefois par les aliments d'origine animale :  aquatiques et petits poissons (qu'elle capture en plongeant et s'immergeant totalement) en période estivale. Tout au long de l'année, son régime est complété par la consommation de végétaux qu'elle broute à la surface ou sur les rives des plans d'eau.
+- 
+  title: Une anecdote ?
+  content: 'La Macreuse brune se nourrit surtout en plongeant. Elle utilise ses ailes et ses pieds palmés pour se propulser dans l’eau. Elle plonge avec les ailes partiellement ouvertes mais sans sauter auparavant. Il lui arrive de se nourrir la nuit mais plus loin des rives et dans des eaux plus profondes, même en hiver. Ce canard plongeur peut atteindre 12 mètres de profondeur et rester 3 minutes en apnée.'
+- 
+  title: ""
+  content: ''

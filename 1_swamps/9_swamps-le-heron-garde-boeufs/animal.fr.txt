@@ -1,0 +1,23 @@
+Title: Le Héron garde-bœufs
+
+----
+
+Latin: Bubulcus ibis
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'L’espèce est sédentaire en Camargue, les oiseaux gagnant vraisemblablement l’Espagne par grand froid.'
+- 
+  title:  « Statut » ?
+  content: '.'
+- 
+  title: Un comportement typique ?
+  content: 'Ce héron, plutôt insectivore aime la compagnie des grands herbivores qui, en se déplaçant dans les prairies, dérangent ses proies favorites. Les insectes et amphibiens sont alors facilement repérés et avalés par ce malin petit goulu.'
+- 
+  title: Une anecdote ?
+  content: |
+    Même si il grimpe parfois sur le dos des chevaux ou de vaches, pour avoir un poste d’observation mobile et en hauteur, il ne faut pas le confondre avec le pique-bœuf qui est un petit passereau africain.

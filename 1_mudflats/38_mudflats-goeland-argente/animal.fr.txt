@@ -1,0 +1,22 @@
+Title: GOÉLAND ARGENTÉ
+
+----
+
+Latin: Larus argentatus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Le Goéland argenté est présent toute l’année, aussi bien sur le littoral qu’à l’intérieur des terres. Oiseau opportuniste par excellence, il affectionne tout autant la côte sauvage, où il glane coquillages et crustacés, que les zones urbanisées, où il récolte nos déchets.  '
+- 
+  title: Son statut ?
+  content: 'Sa grande plasticité alimentaire en fait une espèce en expansion, même si ses populations ont tendance à se stabiliser, du fait notamment de la fermeture - enfin ! - des décharges à ciel ouvert. '
+- 
+  title: Un comportement typique ?
+  content: 'La tache rouge sur le bec jaune du goéland n’est pas une simple coquetterie : elle sert de “cible” au poussin, qui, dès qu’il la voit, tapote dessus pour quémander sa nourriture ! Ce comportement déclenche alors la régurgitation chez l’adulte. Bon appétit !'
+- 
+  title: Une anecdote ?
+  content: 'Qu’elles sont succulentes, les coques de la Baie de Somme ! Et le goéland le sait bien ! Pas besoin de laisser tremper le mollusque une demi-heure pour qu’il s’ouvre : l’oiseau le saisit dans son bec, prend de la hauteur, puis le laisse tomber sur une pierre, où il s’éclate. Place au festin !'

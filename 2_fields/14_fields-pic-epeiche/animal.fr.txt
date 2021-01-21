@@ -1,0 +1,22 @@
+Title: PIC ÉPEICHE
+
+----
+
+Latin: Dendrocopos major
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: ' '
+- 
+  title: Son statut ?
+  content: 'Ce bel oiseau arboricole, au plumage bigarré, n’est pas globalement menacé… dès lors qu’on ne surexploite pas les forêts qu’il occupe !'
+- 
+  title: Un comportement typique ?
+  content: 'Qui joue ce solo de batterie ? C’est le Pic épeiche, bien sûr ! Lorsqu’il martèle un arbre ou un poteau au printemps, c’est surtout pour marquer son territoire et trouver un(e) partenaire. Si le tambourinage est efficace, place à la parade : mâle et femelle se livrent alors à des courses poursuites amusantes sur les troncs des arbres, zigzaguant parmi les branches ! '
+- 
+  title: Une anecdote ?
+  content: 'Pour capturer ses proies - des larves xylophages généralement - le Pic épeiche a une astuce imparable : à l’écoute du moindre bruit, il localise sa victime cachée à l’intérieur du bois. Une fois la galerie mise à jour, il y enfile sa longue langue collante munie de crochets, et harponne son déjeuner ! '

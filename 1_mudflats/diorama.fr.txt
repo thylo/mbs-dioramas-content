@@ -1,0 +1,25 @@
+Title: Vasières
+
+----
+
+Description: 
+
+----
+
+Image:
+
+- essai-aquarel-prairie.png
+
+----
+
+Recorderip: 1
+
+----
+
+Cueid: 1
+
+----
+
+Ambianceaudiofile:
+
+- sample1.mp3

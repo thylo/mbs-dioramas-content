@@ -1,0 +1,25 @@
+Title: TOURNEPIERRE À COLLIER
+
+----
+
+Latin: Arenaria interpres
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'La Baie de Somme se situe sur l’un des axes de migration privilégiés de ce nicheur des côtes arctiques : on le rencontre surtout en avril, lorsqu’il remonte vers ses sites de reproduction, puis de juillet à septembre, quand il revient de la toundra nordique. C’est un hivernant peu commun dans la région, car le littoral picard ne lui offre pas les milieux rocheux qu’il affectionne.'
+- 
+  title: Son statut ?
+  content: 'Les populations de ce petit limicole protégé semblent stables. Attention toutefois à ne pas le déranger, surtout lorsqu’il stationne sur les reposoirs de marée haute ! '
+- 
+  title: Un comportement typique ?
+  content: 'Pour chercher sa nourriture dans la laisse de mer, le tournepierre se sert de son bec légèrement retroussé pour retourner galets, algues et autres coquillages échoués... et sous lesquels se cachent les invertébrés dont il raffole. Technique qui a fait ses preuves, et lui a valu son petit nom !'
+- 
+  title: Une anecdote ?
+  content: 'En Picardie, on l’appelle parfois “colombé” : en effet, sa silhouette rondouillarde et son plumage bigarré peuvent faire penser à un pigeon. Mais ce petit échassier fait bien partie de la famille des limicoles ! '
+- 
+  title: VASIÈRES MINI
+  content: ""

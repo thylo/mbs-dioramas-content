@@ -1,0 +1,22 @@
+Title: BRUANT JAUNE
+
+----
+
+Latin: Emberiza citrinella
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Migrateur partiel, le Bruant jaune se reproduit au printemps dans les milieux semi-ouverts de la région, où il signale vaillamment son territoire de son chant monotone. Dès la fin de l’été, les individus se regroupent en bandes errantes parfois nombreuses, mais très discrètes. '
+- 
+  title: Son statut ?
+  content: 'Les chiffres concernant le Bruant jaune sont alarmants : ces dix dernières années, le suivi français STOC a montré un déclin de 45% de ses effectifs ! Il y a urgence à protéger les prés, les haies et les clairières où il vit !'
+- 
+  title: Un comportement typique ?
+  content: 'À l’instar de son cousin ortolan, le Bruant jaune fait son nid très près du sol, à l’abri d’un buisson. C’est Madame qui s’occupe seule du chantier, pendant que Monsieur surveille les alentours !'
+- 
+  title: Une anecdote ?
+  content: 'Chez cet oiseau, on aime le jaune ! Une étude a démontré que les femelles préfèrent les mâles qui arborent le plumage le plus vif et solaire. '

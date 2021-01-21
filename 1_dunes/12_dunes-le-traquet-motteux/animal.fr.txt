@@ -1,0 +1,23 @@
+Title: Le Traquet motteux
+
+----
+
+Latin: Oenanthe oenanhte
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Migrateur, le Traquet motteux hiverne en Afrique tropicale de septembre-octobre à mars-avril.'
+- 
+  title:  « Statut » ?
+  content: 'Actuellement considéré comme non menacé, cette  même si ses effectifs sont plutôt en diminution à cause, notamment des pratiques agricoles de plus en plus intensives et de l’urbanisation.'
+- 
+  title: Un comportement typique ?
+  content: 'Cavernicole, l’oiseau niche le plus souvent au fond d’une cavité, sous une grosse pierre ou un bloc de rocher à demi enterré, dans le trou d’une muraille, un nichoir… voire un terrier de lapin ou un tuyau de drainage.'
+- 
+  title: Une anecdote ?
+  content: |
+    Si l’on frappe deux pierres l’une contre l’autre, on rendra assez bien les durs cris d’alarme de ce traquet : dack… dack… tac…tac…

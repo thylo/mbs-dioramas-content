@@ -1,0 +1,18 @@
+Title: Maison de la baie de Somme
+
+----
+
+Blocks:
+
+- 
+  title: Quand l’observer
+  slug: observe
+- 
+  title: Son statut ?
+  slug: status
+- 
+  title: Un comportement typique ?
+  slug: behavior
+- 
+  title: Une anecdote ?
+  slug: anecdote

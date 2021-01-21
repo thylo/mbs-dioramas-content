@@ -1,0 +1,23 @@
+Title: Le Grand gravelot
+
+----
+
+Latin: Charadrius hiaticula
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Le Grand gravelot est un nicheur relativement récent en France où sa nidification n’a été constatée que depuis une quarantaine d’années. C’est un migrateur qui hiverne jusqu’en Afrique australe. Il est présent de mai à octobre.'
+- 
+  title:  « Statut » ?
+  content: 'Cette La principale menace pesant sur l’espèce est constituée par les dérangements de toute nature qui interfèrent sur une espèce de haut de plage, là où les activités humaines sont les plus importantes et se pratiquent toute l’année.'
+- 
+  title: Un comportement typique ?
+  content: 'Tout comme les bécasseaux, les gravelots suivent le va et vient des vagues sur l’estran afin de dénicher les petits invertébrés qui remontent à la surface de la vase lorsqu’ils sont submergés. Ils utilisent une méthode qui consiste à faire trembler une patte dans l’eau, ou bien ils tapent sur le sol avec une seule patte, imitant ainsi la pluie qui tombe, afin de faire remonter les invertébrés à la surface de l’eau ou du sol.'
+- 
+  title: Une anecdote ?
+  content: |
+    Comme de nombreuses espèces de limicoles, il peut éloigner un prédateur du nid en simulant le comportement d’un oiseau blessé (aile pendante et démarche houleuse).

@@ -1,0 +1,23 @@
+Title: La Gorgebleue à miroir
+
+----
+
+Latin: Luscinia svecica
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'La gorgebleue est un migrateur qui arrive tôt au printemps (fin février, début mars). Les premières migratrices nous quittent dès le mois d’août pour hiverner en Espagne ou en Afrique tropicale.'
+- 
+  title: « Statut » ?
+  content: 'A partir de 1970, cette  en France.'
+- 
+  title: Un comportement typique ?
+  content: 'Tout comme le rougegorge, la gorgebleue est plutôt solitaire et très territoriale : elle ne tolère pas d’intrus dans son domaine.'
+- 
+  title: Une anecdote ?
+  content: |
+    La gorgebleue est capable d’imiter le chant d’autres oiseaux qu’elle côtoie, aussi bien sur son lieu de reproduction que sur sa zone d’hivernage africaine. Un mâle imita la voix de 35 espèces différentes en 3 heures de chant (Géroudet).

@@ -1,0 +1,23 @@
+Title: La Marouette ponctuée
+
+----
+
+Latin: Porzana porzana
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Migratrice nocturne, la marouette hiverne dans le Sud-ouest du bassin méditerranéen ; certaines vont même jusqu’en Afrique de l’Est. Elle est présente chez nous de mars à juillet.'
+- 
+  title: « Statut » ?
+  content: '.'
+- 
+  title: Un comportement typique ?
+  content: 'Ces moeurs.crépusculaires, sa petite taille (pas plus grosse qu’un merle) et la discrétion de ses déplacements en fond un oiseau extrêmement difficile à voir.'
+- 
+  title: Une anecdote ?
+  content: |
+    Comme chez la poule d’eau, l’intensité des hochements de queue indique le degré d’inquiétude.

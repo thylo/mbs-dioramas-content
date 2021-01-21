@@ -1,0 +1,26 @@
+Title: Le Martin pêcheur d’Europe
+
+----
+
+Latin: Alcedo atthis
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Le Martin pêcheur est sédentaire même si on assiste à des déplacements territoriaux et à un certain erratisme.'
+- 
+  title:  « Statut » ?
+  content: |
+    Cette .
+- 
+  title: Un comportement typique ?
+  content: |
+    Son vol rapide et souvent au ras de l’eau ne facilite pas son observation, on ne voit bien souvent de lui qu’une flèche bleue traversant la rivière ou longeant l’étang.
+    A moins de repérer ses perchoirs de pêche à l’affût, cet oiseau est farouche et difficile à observer malgré ses splendides couleurs.
+- 
+  title: Une anecdote ?
+  content: |
+    Totalement insociable et irascible au dernier degré, il ne souffre en aucun cas la présence d’un congénère sur son territoire. Même les  futurs partenaires commencent leurs préludes amoureux par une belle bagarre avant de s’offrir des petites proies en guise d’apaisement mutuel.

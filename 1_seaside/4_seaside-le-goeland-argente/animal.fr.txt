@@ -1,0 +1,28 @@
+Title: Le Goéland argenté
+
+----
+
+Latin: Larus argentatus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Le Goéland argenté est un migrateur partiel. La majorité des populations sont sédentaires. Seules celles les plus au Nord migrent vers le Sud pour y passer l’hiver.'
+- 
+  title: « Statut » ?
+  content: |
+    À partir des années 1960, profitant de la croissance économique et de la formidable augmentation de production de déchets qui s’ensuit, la démographie du Goéland argenté explose. Mais le pic est atteint dès la fin des années 1980, et depuis le déclin est continu. Parmi d’autres, les causes de cette diminution sont la fermeture des décharges à ciel ouvert ainsi que la concurrence et la prédation exercée par le Goéland marin, dont les populations croissent toujours.
+    Cette espèce est considérée comme .
+- 
+  title: Un comportement typique ?
+  content: |
+    Le poussin a la particularité de tapoter la tâche rouge du bec de ses parents pour réclamer de la nourriture et les inciter à régurgiter.
+    Le Goéland argenté est capable de boire de l’eau de mer et d’en rejeter le sel grâce à des glandes excrétrices situées au dessus de ses yeux.
+    Il est également capable d’ouvrir un coquillage en le laissant tomber au sol depuis une hauteur de plusieurs mètres pour casser sa coquille.
+    Les colonies en sites naturels sont en déclin tandis que les colonies urbaines se multiplient, et se développent. Ainsi l’espèce peut maintenant se reproduire loin du littoral. Cette présence en ville n’est pas appréciée de tous, mais c’est pour l’avenir du Goéland argenté un véritable enjeu que d’apprendre à cohabiter avec lui.
+- 
+  title: ""
+  content: ''

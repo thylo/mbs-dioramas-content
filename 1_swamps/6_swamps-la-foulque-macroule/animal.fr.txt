@@ -1,0 +1,24 @@
+Title: La Foulque macroule
+
+----
+
+Latin: Fulica atra
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'La foulque est présente toute l’année, mais c’est après la période de reproduction que les rassemblements sont les plus importants, les oiseaux nicheurs sont rejoints par des migrateurs venus de l’Est de l’Europe (Pologne).'
+- 
+  title: « Statut » ?
+  content: |
+     Le statut de conservation de la Foulque macroule est estimé  en raison de ses grandes facultés d'adaptation.
+- 
+  title: Un comportement typique ?
+  content: 'La foulque, contrairement à la poule d’eau, est une excellente plongeuse. Ses pattes lobées (orteils palmés comme ceux des grèbes) lui procurent une nage rapide et lui permettent également d’être à l’aise pour grimper dans les branches.'
+- 
+  title: Une anecdote ?
+  content: |
+    Au printemps, les mâles sont particulièrement territoriaux et défendent leur femelle, les bagarres à coup de griffes sont très fréquentes et impressionnantes.

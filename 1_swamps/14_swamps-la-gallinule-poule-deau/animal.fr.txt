@@ -1,0 +1,23 @@
+Title: La Gallinule poule-d’eau
+
+----
+
+Latin: Gallinula chloropus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'C’est un oiseau nicheur commun le long des berges des plans d’eau. Plutôt sédentaire, mais une partie des populations les plus septentrionales migre vers les régions méditerranéennes.'
+- 
+  title: « Statut » ?
+  content: 'Ses populations sont stables, cette .'
+- 
+  title: Un comportement typique ?
+  content: 'Lorsqu’elle se déplace dans l’eau, elle balance sa tête d’avant en arrière, comme pour se donner de l’élan. Pour donner l’alerte en cas de danger, elle soulève sa queue par saccades, découvrant ses sous caudales blanches par intermittence, ce qui joue le rôle de « WARNINGS » pour prévenir les copines.'
+- 
+  title:  Une anecdote ?
+  content: |
+    Les poussins de la première couvée peuvent aider au nourrissage de la deuxième couvée, ce comportement d’entraide entre différentes fratries est rare chez les oiseaux.

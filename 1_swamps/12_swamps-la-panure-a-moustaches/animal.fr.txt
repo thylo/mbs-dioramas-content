@@ -1,0 +1,23 @@
+Title: La Panure à moustaches
+
+----
+
+Latin: Panurus biarmicus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Hôte exclusif des grandes roselières où elle niche volontiers en colonies parfois importantes, cette espèce est sédentaire en France mais très sensible aux hivers rigoureux.'
+- 
+  title:  « Statut » ?
+  content: ' est sensible à la destruction et à la dégradation de son habitat exclusif : la phragmitaie (roselière).'
+- 
+  title: Un comportement typique ?
+  content: 'Le nid est construit très près du sol, bien caché dans la végétation palustre. Les panures effectuent généralement deux couvées, l’une en mars-avril et l’autre en juin. Le développement des jeunes est extrêmement rapide puisqu’ils ne restent que 9 à 12 jours au nid.'
+- 
+  title: Une anecdote ?
+  content: |
+    Lors du changement de régime alimentaire, qui passe d’insectivore à presque exclusivement granivore en septembre-octobre, la paroi interne du gésier acquiert une couche plus épaisse de coiline afin de s’adapter à ce nouveau régime.

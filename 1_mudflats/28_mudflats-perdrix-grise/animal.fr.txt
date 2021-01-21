@@ -1,0 +1,22 @@
+Title: PERDRIX GRISE
+
+----
+
+Latin: Perdrix perdrix
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Nicheuse sédentaire des milieux cultivés et des friches, la Perdrix grise est présente toute l’année en Picardie ; c’est d’ailleurs une des régions d’Europe où elle est la plus commune ! '
+- 
+  title: Son statut ?
+  content: 'Même si son état de conservation n’est pas jugé préoccupant, les populations de Perdrix grise ont tendance à diminuer dans des secteurs où elle était autrefois abondante : l’intensification de l’agriculture, une pression de chasse mal adaptée et la concurrence avec des espèces introduites sont les principaux périls pour ce gallinacé. '
+- 
+  title: Un comportement typique ?
+  content: 'Oiseau plutôt terrestre, la perdrix aime le sol... au point de se rouler dedans ! En réalité, les bains de poussière pratiqués en été ont une double fonction : ils l’aident à se débarrasser de ses parasites, et adoucissent les effets de la chaleur !'
+- 
+  title: Une anecdote ?
+  content: 'Les réunions de groupes familiaux sont appelées compagnies. En hiver, il n’est pas rare de croiser ces joyeuses troupes marchant en file indienne : elles tracent une piste caractéristique au milieu de la plaine.  '

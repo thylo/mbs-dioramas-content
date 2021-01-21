@@ -1,0 +1,23 @@
+Title: Le Hibou des marais
+
+----
+
+Latin: Asio flammeus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'L’espèce est largement erratique, certains individus peuvent hiverner jusqu’aux Tropiques. Les mouvements ont lieu dès l’été et en automne puis de février à mai. '
+- 
+  title:  « Statut » ?
+  content: '.'
+- 
+  title: Un comportement typique ?
+  content: 'Un des rares hiboux que l’on peut voir voler régulièrement de jour et qui construit son nid par terre. Moins d’une centaine de couples nichent en France.'
+- 
+  title: Une anecdote ?
+  content: |
+    On l’appelle aussi le hibou brachyote (hibou à petites oreilles) à cause de ses aigrettes très courtes.

@@ -1,0 +1,24 @@
+Title: Le Busard des roseaux
+
+----
+
+Latin: Circus aeruginosus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'C’est le plus grand des busards nicheurs dans notre région. En hiver, de nombreux individus migrent vers le Sud de l’Europe mais certains vont jusqu’en Afrique centrale.'
+- 
+  title: « Statut » ?
+  content: ' au niveau régional.'
+- 
+  title: Un comportement typique ?
+  content: 'Ses  longues pattes armées de serres puissantes rappellent celles de l’épervier. Il chasse en planant sur de longues distances et peut ainsi surprendre ses proies.'
+- 
+  title: Une anecdote ?
+  content: |
+    Autrefois présent uniquement dans les zones humides, il s’est adapté à des zones plus sèches et notamment des champs cultivés, la condition étant que les milieux alentours lui conviennent pour chasser.
+    3

@@ -1,0 +1,22 @@
+Title: PLUVIER ARGENTÉ
+
+----
+
+Latin: Pluvialis squatarola
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Ce fantastique voyageur fait halte dans l’estuaire de la Somme lors de sa migration au long cours : on croise des groupes impressionnants stationnant dans les vasières de la baie en mai, lorsqu’il regagne sa Sibérie natale pour nicher, puis à la fin de l’été, quand il redescend vers ses zones d’hivernage africaines. Certains individus restent en hiver sur notre littoral. '
+- 
+  title: Son statut ?
+  content: 'Les populations de ce limicole chassable sont stables, dès lors que les grandes zones de vase dont il dépend sont préservées. '
+- 
+  title: Un comportement typique ?
+  content: 'Lorsqu’il cherche à manger, le Pluvier argenté effectue une course brève, avant de stopper net pour capturer une proie au sol. Puis il reprend sa progression, avançant par à-coups, en quête de vers benthiques appétissants… '
+- 
+  title: Une anecdote ?
+  content: 'Ce beau limicole est littéralement “l’oiseau de pluie” : il doit son nom au fait qu’il arrive dans nos régions en même temps que les nuages annonciateurs des précipitations automnales.  '

@@ -1,0 +1,22 @@
+Title: BÉCASSEAU DE TEMMINCK
+
+----
+
+Latin: Calidris minutilla
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Ce petit limicole, plutôt solitaire, niche dans les plaines inondées de la toundra arctique, et hiverne dans les marais de la savane africaine. En chemin, il fait occasionnellement escale en Picardie, mais ses observations restent rares.  '
+- 
+  title: Son statut ?
+  content: 'Il est difficile d’estimer les populations de Bécasseau de Temminck du fait de sa distribution très éparse ; néanmoins la principale menace qui pèse sur ce petit oiseau protégé est la dégradation de son habitat humide. '
+- 
+  title: Un comportement typique ?
+  content: 'À l’instar de leurs cousins gravelots ou chevaliers, les bécasseaux sont d’excellents comédiens dès lors qu’il s’agit de défendre leur nichée : à l’approche d’un prédateur, ils jouent la pantomime de l’aile blessée, afin de distraire l’intrus qui, alléché par ce qui semble être une proie facile, est attiré loin du nid !'
+- 
+  title: Une anecdote ?
+  content: 'Ce petit limicole aux pattes jaunes doit son nom à Coenraad Jacob Temminck, zoologiste et naturaliste néerlandais (1778-1858).'

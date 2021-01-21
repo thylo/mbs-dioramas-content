@@ -1,0 +1,24 @@
+Title: Le gravelot à collier interrompu
+
+----
+
+Latin: Charadrius alexandrinus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Si une faible partie des oiseaux est sédentaire en Camargue, les autres hivernent de la Corse à l’Afrique du Nord, jusqu’au Nord du Sahara. Il est présent chez nous de mai à septembre.'
+- 
+  title: « Statut » ?
+  content: |
+    Cette sont le dérangement humain et l'aménagement des côtes.
+- 
+  title: Un comportement typique ?
+  content: 'Le Gravelot à collier interrompu niche à même le sol, souvent dans la laisse de mer ou à proximité immédiate de l’estran. Son nid est quasiment invisible (petite cuvette dans le sable) et la couleur des œufs (tachetés façon grains de sable) rajoute au camouflage du nid.'
+- 
+  title: Une anecdote ?
+  content: |
+    Souvent dérangé par la présence touristique le long du littoral, il est l’objet de toutes les attentions et ses nids, lorsqu’ils sont repérés, font l’objet d’une surveillance renforcée par les gardes des réserves naturelles afin d’éviter leur destruction (piétinement, chiens…).

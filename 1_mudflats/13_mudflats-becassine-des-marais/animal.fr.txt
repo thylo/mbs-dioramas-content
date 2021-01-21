@@ -1,0 +1,22 @@
+Title: BÉCASSINE DES MARAIS
+
+----
+
+Latin: Gallinago gallinago
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'On peut croiser le long bec de ce joli limicole lors de ses haltes migratoires - en avril au printemps, et d’août à octobre à l’automne - et parfois en hiver, lorsqu’elle cherche sa nourriture dans les terres humides qui ne gèlent pas. En revanche, la Bécassine des marais ne se reproduit plus qu’exceptionnellement en plaine maritime picarde. '
+- 
+  title: Son statut ?
+  content: 'Espèce chassable mais exigeante, la Bécassine des marais a besoin de vastes pâtures extensives toujours humides pour nicher. Le drainage des marais, conjugué à la canalisation des cours d’eau, compliquent grandement son installation : attention danger !'
+- 
+  title: Un comportement typique ?
+  content: 'Pour signaler son territoire, le mâle effectue un vol acrobatique ; il monte vaillamment dans le ciel, dessinant une trajectoire circulaire, puis se laisse carrément tomber ! Lors de la descente, il écarte fortement les plumes externes de sa queue : le passage de l’air dans les rectrices produit une sorte de chevrotement caractéristique, qui lui a valu son surnom de… “chèvre céleste” ! '
+- 
+  title: Une anecdote ?
+  content: '“Smack !” Qui nous lance ce baiser à la nuit tombée ? C’est la Bécassine des marais ! Mais ne nous y trompons pas : loin d’être une déclaration d’amour, ce petit claquement est en réalité un cri de fuite ! D’ailleurs, la voici qui s’envole en zigzaguant… '

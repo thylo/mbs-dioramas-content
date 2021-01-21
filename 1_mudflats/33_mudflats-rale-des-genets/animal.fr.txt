@@ -1,0 +1,24 @@
+Title: RÂLE DES GENÊTS
+
+----
+
+Latin: Crex crex
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Nicheur rare, hivernant occasionnel, il faut avoir beaucoup de chance pour observer le “roi des cailles” dans la région. '
+- 
+  title: Son statut ?
+  content: |
+    Alors qu’il était abondant jusque dans les années 1950, les populations de Râles des genêts se sont effondrées depuis, du fait notamment de l’intensification des fauches - réalisées de plus en plus tôt - dans les prairies herbeuses où il niche. Leur transformation en grandes cultures lui est carrément fatale !
+
+- 
+  title: Un comportement typique ?
+  content: 'Lorsqu’il est dérangé, le Râle des genêts n’aime guère s’envoler : il préfère se faufiler dans la végétation, tête baissée !'
+- 
+  title: Une anecdote ?
+  content: '” Pas besoin de chercher bien loin : c’est ce chant rauque et monotone qui a donné son nom scientifique au Râle des genêts ! Lors des chaudes nuits d’été, le mâle peut lancer jusqu’à 10000 fois son appel lancinant !'

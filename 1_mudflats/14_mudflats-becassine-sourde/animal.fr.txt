@@ -1,0 +1,22 @@
+Title: BÉCASSINE SOURDE
+
+----
+
+Latin: Lymnocryptes minimus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'La Bécassine sourde est une migratrice et une hivernante certes présente en Picardie, mais extrêmement discrète : il faut avoir beaucoup de chance pour l’apercevoir dans les mollières de la Baie de Somme, où elle glane sa nourriture, en balançant le corps d’avant en arrière. Au printemps, elle file vers le Grand Nord - de la Scandinavie à la Sibérie - où elle se reproduit. '
+- 
+  title: Son statut ?
+  content: 'Même si ses populations semblent stables, il est difficile d’évaluer l’état de conservation de cette grande timide. Est-ce qu’elle tient bon face à la raréfaction des zones humides et aux prélèvements cynégétiques ? Souhaitons-le !'
+- 
+  title: Un comportement typique ?
+  content: 'À l’approche d’un prédateur, la Bécassine sourde se plaque au sol, comptant sur son plumage cryptique pour passer inaperçue. Il faut vraiment que la menace se trouve à proximité immédiate pour qu’elle se décide enfin à décoller. On a longtemps pensé qu’elle s’envolait au dernier moment parce qu’elle n’entendait pas le danger, d’où son petit sobriquet !'
+- 
+  title: Une anecdote ?
+  content: 'À l’instar de ses cousines, la Bécassine sourde a un bec démesuré, sensible et... flexible ! Lorsqu’elle sonde le sol, elle sent grâce au toucher - et non à l’odorat - si un ver délicieux s’y cache ; puis elle est capable d’entrouvrir l’extrémité souple de son bec pour s’en emparer !'

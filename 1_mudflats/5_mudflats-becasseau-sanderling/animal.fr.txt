@@ -1,0 +1,22 @@
+Title: BÉCASSEAU SANDERLING
+
+----
+
+Latin: Calidris alba
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Cette petite boule de plumes niche sur les côtes arctiques, de l’Alaska à la Sibérie, en passant par le Groenland et le Canada. Quel plaisir de l’observer sur le littoral picard, lors de ses haltes migratoires ! Certains séjournent même en hiver sur les plages de la baie d’Authie et de la baie de Somme.   '
+- 
+  title: Son statut ?
+  content: 'Les populations de ce limicole protégé sont stables. Néanmoins, il pourrait souffrir de la dégradation des plages sableuses ; et même s’il paraît extrêmement confiant, veillons à ne pas trop nous en approcher, pour ne pas le déranger !'
+- 
+  title: Un comportement typique ?
+  content: 'Quel joli spectacle hivernal que la course des sanderlings après le ressac ! On dirait un jeu au cours duquel ils sont tantôt poursuivis par les vagues, tantôt poursuiveurs de l’onde marine. Ils trottinent si vite qu’on a l’impression qu’ils roulent ! Vifs et adroits, ils parviennent ainsi à capturer les petites proies dont ils se délectent.   '
+- 
+  title: Une anecdote ?
+  content: 'Regardez attentivement les petites pattes noires du sanderling : comme tous les bécasseaux, il possède bien trois orteils pointés vers l’avant... mais à la différence de ses cousins, il n’a pas de doigt postérieur !  '

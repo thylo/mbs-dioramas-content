@@ -1,0 +1,24 @@
+Title: Le Bruant des roseaux
+
+----
+
+Latin: Emberiza schoeniclus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Selon les régions, le bruant des roseaux est sédentaire, migrateur ou erratique. La France accueille en hivernage de nombreux oiseaux du Nord, du centre et de l’Est de l’Europe.'
+- 
+  title:  « Statut » ?
+  content: '.'
+- 
+  title: Un comportement typique ?
+  content: 'Ce petit passereau installe son nid très bas ou à même le sol. Bien caché dans une touffe d’herbe ou de carex, un amas de roseaux ou même un tas de branchages, le nid reçoit 4 ou 5 œufs que la femelle couve seule.'
+- 
+  title: Une anecdote ?
+  content: |
+    Après un déclin assez net dans les années 1970-1980, on s’est aperçu que l’oiseau regagnait du terrain et que ses effectifs progressaient. La protection de certaines zones humides et surtout une adaptation naturelle à de nouveaux biotopes (notamment les zones cultivées) en sont les principales causes.
+    2

@@ -1,0 +1,25 @@
+Title: La Pie bavarde
+
+----
+
+Latin: Pica pica
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Les pies sont sédentaires et ne se déplacent que de 40 à 50 km aux alentours de leur territoire.'
+- 
+  title: « Statut » ?
+  content: |
+    Rusée et méfiante, comme tous les corvidés au contact de l’homme, la pie maintient ses effectifs malgré les « limitations » dont elle fait l’objet. Dans.
+- 
+  title: Un comportement typique ?
+  content: 'Le couple, uni pour la vie, construit un gros nid de branches « cimenté » avec de la terre et de l’herbe (comme du torchis) et, chose rare, le nid est surmonté d’un toit en dôme.'
+- 
+  title: Une anecdote ?
+  content: |
+    Non, la pie n’est pas voleuse ! D’après des chercheurs de l’Université britannique d’Exeter (spécialisés dans l’étude du comportement animal) cette mauvaise réputation est totalement injustifiée, même s’il arrive bien à la pie de subtiliser des proies à d’autres oiseaux plus petits qu’elle (un comportement largement répandu chez de nombreuses espèces), celle-ci s’avère méfiante face à des objets inconnus.
+    Cette légende est due au comportement chapardeur des pies domestiquées qui ont vécu au contact de l’homme.

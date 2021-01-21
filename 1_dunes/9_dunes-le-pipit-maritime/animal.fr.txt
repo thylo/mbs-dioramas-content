@@ -1,0 +1,25 @@
+Title: Le Pipit maritime
+
+----
+
+Latin: Anthus petrosus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Nos pipits maritimes sont sédentaires, simplement erratiques le long des côtes. En octobre, puis en mars, passent les oiseaux nordiques qui hivernent jusqu’au Portugal et au Maroc.'
+- 
+  title:  « Statut » ?
+  content: 'Le Pipit maritime est plutôt commun dans sa vaste distribution. La population semble stable dans l’ensemble car l’habitat n’est pas menacé pour le moment. Cependant, la pollution chimique sur les côtes rocheuses peut réduire temporairement le nombre des invertébrés dont il se nourrit. Actuellement, cette  et ses populations semblent stables.'
+- 
+  title: Un comportement typique ?
+  content: |
+    Le nid est établi en général non loin de l’eau, dans un recoin rocheux ou une crevasse, un trou dans un talus ou une dépression du sol, sous une touffe d’herbe…
+    Les petits restent à peine 15 jours au nid. Il peut y avoir jusqu’à 3 couvées.
+- 
+  title: Une anecdote ?
+  content: |
+    Le comportement du mâle en période nuptiale est très particulier. Il monte assez haut en partant d’un rocher puis chute doucement à la verticale, « en parachute », tout en lançant une longue trille descendante.

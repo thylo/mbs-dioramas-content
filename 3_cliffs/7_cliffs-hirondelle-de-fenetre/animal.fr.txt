@@ -1,0 +1,29 @@
+Title: HIRONDELLE DE FENÊTRE
+
+----
+
+Latin: Delichon urbicum
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: |
+    L’Hirondelle de fenêtre fait notre printemps dès la fin mars. Cette citadine niche auprès des habitations, mais aussi dans les falaises crayeuses. La belle aux ailes noir bleuté et au croupion blanc file vers ses quartiers d’hiver africains dès le mois d’août, mais on peut encore l’apercevoir jusqu’en octobre.
+
+- 
+  title: Son statut ?
+  content: |
+    À l’instar de ses cousines, l’Hirondelle de fenêtre est protégée ; détruire son nid est absolument interdit ! Espèce strictement insectivore, ses populations ont tendance à régresser, du fait notamment de l’utilisation des pesticides, mais aussi des sécheresses répétées au Sahel.
+
+- 
+  title: Un comportement typique ?
+  content: |
+    Mais que font ces hirondelles au sol ? Elles récoltent de la boue ! Mélangée à la salive, les petites boulettes de terre serviront à la confection du nid en forme de coupe, installé sous un surplomb, par exemple un rebord de fenêtre... D’où son petit nom !
+
+- 
+  title: Une anecdote ?
+  content: |
+    Avant que le baguage ne témoigne des voyages extraordinaires dont sont capables ces vaillantes migratrices transsahariennes, on pensait que les hirondelles passaient l’hiver au fond de l’eau, ou enfouies dans la vase !

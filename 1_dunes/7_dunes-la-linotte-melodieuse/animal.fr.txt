@@ -1,0 +1,24 @@
+Title: La Linotte mélodieuse
+
+----
+
+Latin: Carduelis cannabina
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Erratiques, migratrices partielles, les troupes de linottes vagabondent dans notre pays en hiver. Certains oiseaux gagnent l’Afrique du Nord. La linotte est une nicheuse commune partout sauf en montagne ou sa répartition est plus inégale.'
+- 
+  title: « Statut » ?
+  content: 'Le statut de conservation de la Linotte mélodieuse est considéré comme défavorable en Europe où un déclin a été mis en évidence dans plusieurs pays, dont la France. Les effectifs sont mal connus mais les résultats du programme STOC (Baguage) semblent maintenant indiquer un déclin pour cette espèce spécialiste des milieux agricoles. Cette .'
+- 
+  title: Un comportement typique ?
+  content: |
+     et forme de petits groupes mobiles qui peuvent compter plusieurs dizaines d'oiseaux qui exploitent les plantes à graines en rase-campagne.
+- 
+  title: Une anecdote ?
+  content: |
+    L’origine de son nom lui vient de sa consommation de linettes (graines de lin) dont elle est friande.

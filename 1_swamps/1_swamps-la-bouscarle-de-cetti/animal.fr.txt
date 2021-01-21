@@ -1,0 +1,25 @@
+Title: La Bouscarle de Cetti
+
+----
+
+Latin: Cettia cettia
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'La bouscarle passe pour être très sédentaire, en fait c’est une migratrice partielle. Dans certaines populations, les oiseaux migrent, c’est le cas des oiseaux bulgares par exemple.'
+- 
+  title: « Statut » ?
+  content: |
+    , elle semble être en augmentation, avec une expansion vers le Nord de l’Europe de l’Ouest.
+    .
+- 
+  title: Un comportement typique ?
+  content: 'Son chant est tellement puissant qu’il fait sursauter la première fois qu’on l’entend. Il est très caractéristique et ne peut être confondu avec aucun autre. C’est d’ailleurs le seul indice qui permette de la repérer, étant donné l’habileté diabolique dont elle use pour se cacher.'
+- 
+  title: Une anecdote ?
+  content: |
+    Le mot bouscarle vient du provençal et veut dire : « oiseau des buissons ».

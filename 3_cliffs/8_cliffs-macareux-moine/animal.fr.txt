@@ -1,0 +1,27 @@
+Title: MACAREUX MOINE
+
+----
+
+Latin: Fratercula arctica
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: |
+    Il est extrêmement rare de rencontrer ce joli petit pingouin sur les côtes picardes, d’autant plus que les populations nicheuses relictuelles de Bretagne souffrent d’une diminution drastique. Néanmoins de forts coups de vent pourraient encore déposer quelques individus venus du grand large.
+
+- 
+  title: Son statut ?
+  content: |
+    et surtout le réchauffement des eaux océaniques, qui bousculent la répartition des poissons essentiels à sa survie.
+
+- 
+  title: Un comportement typique ?
+  content: 'Cet oiseau plongeur est tout à fait adapté à la pêche sous-marine. Lorsqu’il sort de l’eau, on voit briller dans son bec coloré les petites proies qu’il est parvenu à capturer. Il les apportera à son unique poussin blotti au fond du terrier aménagé en nid douillet.'
+- 
+  title: Une anecdote ?
+  content: |
+    Mais au fait, pourquoi l’appelle-t-on “moine” ? Parce que son plumage noir et blanc ferait penser à l’habit des religieux ! D’ailleurs, son nom latin signifie “petit frère de l’Arctique”.

@@ -1,0 +1,22 @@
+Title: PIGEON RAMIER
+
+----
+
+Latin: Columba palumbus
+
+----
+
+Sections:
+
+- 
+  title: Quand l’observer ?
+  content: 'Le roucoulement familier du Pigeon ramier annonce le printemps ! Les nicheurs picards sont essentiellement sédentaires, mais de beaux passages d’oiseaux nordiques sont à noter en automne. '
+- 
+  title: Son statut ?
+  content: 'Ce grand columbidé est très éclectique dans le choix de ses habitats ; il a même tendance à s’installer en ville depuis quelques années - imitant son cousin biset - ce qui en fait un oiseau en expansion. '
+- 
+  title: Un comportement typique ?
+  content: 'Lorsqu’il s’agit de signaler son territoire, le mâle sait se faire remarquer : il monte rapidement dans les airs, émet un claquement d’ailes retentissant, avant de se laisser tomber en planant… puis il recommence la manœuvre ! Cette série ostentatoire de montées et de descentes a le mérite d’être claire !  '
+- 
+  title: Une anecdote ?
+  content: 'Durant les premiers jours de sa vie, le poussin ramier, encore aveugle et nu, se nourrit de… lait de pigeon ! Téterait-il sa maman ? Non, évidemment ! Ce “lait” est en réalité une sécrétion très riche en protéines, fabriquée dans le jabot de ses parents. '
